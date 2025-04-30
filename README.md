@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mock Email Sequence – Nishkarsh Sharma</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      max-width: 800px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    .email-box {
-      background: #f9f9f9;
-      padding: 15px;
-      border-left: 4px solid #0077cc;
-      margin-bottom: 20px;
-    }
-    .cta {
-      background-color: #0077cc;
-      color: white;
-      padding: 10px 20px;
-      display: inline-block;
-      text-decoration: none;
-      border-radius: 5px;
-      margin-top: 15px;
-    }
-  </style>
-</head>
-<body>
+
   <h1>Email Copy that Converts Subscribers into Buyers</h1>
   <h2>Mock Project for Nishkarsh Sharma</h2>
 
